@@ -5,7 +5,7 @@
 		"ibm-watson": "^5.2.1"
 	},
 	"scripts": {
-		"start": "MONGO_URL=mongodb+srv://daoadmin:daoadminpassword@cluster1-etul3.mongodb.net/riversidedb meteor --settings settings.json",
+		"start": "mongodb+srv://eluymurdo:Th@nkfu11@docs.cjv8h7y.mongodb.net/?retryWrites=true&w=majority meteor --settings settings.json",
 		"local": "meteor --settings settings.json"
 	}
 }
